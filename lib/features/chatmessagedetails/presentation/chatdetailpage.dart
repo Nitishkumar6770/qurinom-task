@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:qurinorm_task/features/chatmessage/bloc/chatmessage_bloc.dart';
+import 'package:qurinorm_task/features/chatmessagedetails/bloc/chatmessage_bloc.dart';
 
 class ChatDetailPage extends StatefulWidget {
   final String chatId;

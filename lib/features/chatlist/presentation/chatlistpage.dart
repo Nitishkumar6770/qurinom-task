@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:qurinorm_task/features/chatmessage/bloc/chatmessage_bloc.dart';
-import 'package:qurinorm_task/features/chatmessage/presentation/chatdetailpage.dart';
+import 'package:qurinorm_task/features/chatmessagedetails/bloc/chatmessage_bloc.dart';
+import 'package:qurinorm_task/features/chatmessagedetails/presentation/chatdetailpage.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../bloc/chat_bloc.dart';
 

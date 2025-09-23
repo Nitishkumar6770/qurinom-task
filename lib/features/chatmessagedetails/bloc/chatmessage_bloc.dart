@@ -5,7 +5,7 @@ import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:qurinorm_task/core/common/config/constants/url.dart';
-import 'package:qurinorm_task/features/chatmessage/data/models/chatmessage_model.dart';
+import 'package:qurinorm_task/features/chatmessagedetails/data/models/chatmessage_model.dart';
 
 part 'chatmessage_event.dart';
 part 'chatmessage_state.dart';
