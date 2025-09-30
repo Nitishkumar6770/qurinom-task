@@ -1,16 +1,34 @@
 # qurinorm_task
 
-A new Flutter project.
+Chat Application
 
-## Getting Started
+A real-time chat application built as a task for Qurinom Solutions.
+This project demonstrates a complete chat system with features such as user authentication, message exchange, and real-time updates.
 
-This project is a starting point for a Flutter application.
+📌 Features
 
-A few resources to get you started if this is your first Flutter project:
+User Authentication — Sign up and log in securely.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Real-time Messaging — Send and receive messages instantly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Chat List — View active chats and last message preview.
+
+Message Timestamps — See when each message was sent.
+
+Clean and Responsive UI — Works on multiple screen sizes.
+
+Efficient Architecture — Built using modern state management techniques.
+
+🛠 Tech Stack
+
+Frontend: Flutter
+
+Backend: [Mention your backend technology here, e.g., Firebase / Node.js / Supabase]
+
+State Management: [Bloc / Provider / GetX / MVVM / etc.]
+
+Database: [Mention database, e.g., Firestore / MySQL / Supabase]
+
+Real-Time Updates: WebSockets
+
+Other Packages: http, shared_preferences, flutter_bloc, etc.
